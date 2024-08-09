@@ -1,0 +1,23 @@
+.main{
+    padding: :20px;
+    font-family:'Arial';
+    box-shadow:5px 5px 7px 5px #888;
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family:'Arial';
+
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #764776;
+}
+
